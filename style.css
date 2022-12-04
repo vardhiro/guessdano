@@ -27,12 +27,13 @@ input:focus{
 }
 
 button {
+  font-size: 1.2rem;
   background-color: violet;
   border-radius: 8px;
   color: purple;
-  padding: 5px;
+  padding: 15px;
   border: 0px;
-  box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+  box-shadow: 0 3px 1px rgba(0,0,0,0.1);
 }
 
 button:hover, button:active{
