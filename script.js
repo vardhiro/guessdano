@@ -7,5 +7,5 @@ function vguess()
 	if(input == random)
 		message.innerHTML = "<h1>Congratulations</h1>\n<p>You guessed it right</p>";
 	else
-		message.innerHTML = "<h1>Oops</h1>\n<p>You missed it. The number was "+random+"</p>";
+		message.innerHTML = "<h1>Oops</h1>\n<p>You missed it. The number was <span id='rand'>"+random+"</span></p>";
 }
