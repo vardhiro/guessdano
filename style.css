@@ -2,4 +2,5 @@ body{
   background: linear-gradient(to right, red, pink);
   backdrop-filter: blur(10px);
   color: white;
+  font-family: verdana;
 }
