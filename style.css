@@ -1,4 +1,5 @@
 body{
   background: linear-gradient(to right, red, pink);
-  color: pink;
+  backdrop-filter: blur(2px);
+  color: white;
 }
