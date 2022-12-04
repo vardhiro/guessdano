@@ -11,6 +11,7 @@ body{
 }
 
 input {
+    transition-duration: 2s;
     background: transparent;
     border: 0;
     outline: 0;
