@@ -10,8 +10,10 @@ body{
   color: blue;
 }
 
-button {
+input {
+    background: transparent;
     border: 0;
     outline: 0;
     border-bottom: 2px solid #1890ff;
+    
 }
