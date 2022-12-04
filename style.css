@@ -29,5 +29,13 @@ input:focus{
 button {
   background-color: violet;
   border-radius: 8px;
-  color: white;
+  color: purple;
+  padding: 5px;
+  border: 0px;
+  box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+}
+
+button:hover, button:active{
+  box-shadow: 0 0px 0px rgba(0,0,0,0);
+  transform: translateY(2px);
 }
