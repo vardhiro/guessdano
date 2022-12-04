@@ -20,5 +20,6 @@ input {
 }
 
 input:focus{
+    transition-duration: 2s;
     border-bottom: 2px solid green;
 }
